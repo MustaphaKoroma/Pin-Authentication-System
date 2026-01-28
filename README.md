@@ -20,7 +20,7 @@ The system limits login attempts, hides sensitive input, and verifies credential
 - Python 3
 - Python Standard Library
 
-# Project Structure
+## Project Structure
 Pin-Authentication-System/
 ├── auth.py
 ├── main.py
