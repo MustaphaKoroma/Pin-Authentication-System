@@ -16,9 +16,9 @@ The system limits login attempts, hides sensitive input, and verifies credential
 - Account lock after repeated failures
 - Modular and testable code structure
 
-## Technologies Used
+## Programming Language Used
 - Python 3
-- Python Standard Library only
+- Python Standard Library
 
 # Project Structure
 Pin-Authentication-System/
