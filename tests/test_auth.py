@@ -1,4 +1,4 @@
-# Unit tests will be added here
+# This unit tests the authentication module. Includes tests for login, token validation, and error handling.
 from auth import hash_pin, verify_pin
 
 def test_correct_pin():
