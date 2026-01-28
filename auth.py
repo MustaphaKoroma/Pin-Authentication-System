@@ -1,4 +1,4 @@
-# Authentication logic will be added here
+# Following is the authentication logic
 import hashlib
 from getpass import getpass
 
