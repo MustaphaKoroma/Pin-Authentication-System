@@ -29,6 +29,7 @@ The system limits login attempts, hides sensitive input, and verifies credential
 
 ## Project Structure
 Pin-Authentication-System/
+
 ├── auth.py
 
 ├── main.py
