@@ -1,5 +1,12 @@
 # Pin-Authentication-System
-A secure console-based PIN authentication system built with Python to demonstrate clean code structure and basic security principles.
+This is a simple Python-based console application that authenticates users using a PIN code.  
+The project was created to practice Python fundamentals, including conditional logic, user input handling, and clean code organisation.
+
+It demonstrates how to:
+- Validate user input
+- Compare input to a stored PIN securely
+- Provide feedback on authentication success or failure
+- Structure a small Python project clearly
 
 ## Project Goal
 The goal of this project is to build a secure, console-based PIN authentication system in Python that demonstrates clean code structure, basic security awareness, and testable design using core Python features.
