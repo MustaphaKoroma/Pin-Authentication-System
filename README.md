@@ -30,17 +30,27 @@ The system limits login attempts, hides sensitive input, and verifies credential
 ## Project Structure
 Pin-Authentication-System/
 ├── auth.py
+
 ├── main.py
+
 ├── tests/
 │ └── test_auth.py
+
 └── README.md
 
 ## Learning Focus
+The project helps users learn the following:
+
 • Python fundamentals
+
 • Modular code design
+
 • Secure input handling
+
 • Basic authentication logic
+
 • Writing testable code
+
 Notes
 This project is for educational purposes and demonstrates authentication concepts using core Python.
 
