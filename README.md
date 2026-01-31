@@ -8,6 +8,22 @@ It demonstrates how to:
 - Provide feedback on authentication success or failure
 - Structure a small Python project clearly
 
+## Learning Focus
+The project helps users learn the following:
+
+• Python fundamentals
+
+• Modular code design
+
+• Secure input handling
+
+• Basic authentication logic
+
+• Writing testable code
+
+Notes
+This project is for educational purposes and demonstrates authentication concepts using core Python.
+
 ## Project Goal
 The goal of this project is to build a secure, console-based PIN authentication system in Python that demonstrates clean code structure, basic security awareness, and testable design using core Python features.
 
@@ -39,21 +55,16 @@ Pin-Authentication-System/
 
 └── README.md
 
-## Learning Focus
-The project helps users learn the following:
-
-• Python fundamentals
-
-• Modular code design
-
-• Secure input handling
-
-• Basic authentication logic
-
-• Writing testable code
-
-Notes
-This project is for educational purposes and demonstrates authentication concepts using core Python.
+# How to Use
+1.	Ensure Python 3 is installed on your system
+2.	Clone this repository to your local machine
+3.	Navigate into the project directory:
+   ```bash
+   cd Pin-Authentication-System
+4.	Run the application:
+    python main.py
+5.	When prompted, enter the PIN
+6.	The system will grant or deny access based on the input
 
 ## License
 Open-source and available for learning and educational use.
